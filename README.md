@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevonCurtis
-- 👀 I’m interested in Web development, Machine Learning, and AI/Robotics
-- 🌱 I’m currently learning python and opencv
-- 💞️ I’m looking to collaborate on python projects/web projects
+- 👀 I’m interested in Software Engineering, Machine Learning, and AI/Robotics
+- 🌱 I’m currently learning python and computer science fundamentals 
+- 💞️ I’m looking to collaborate on projects that can test my knowledge 
 - 📫 How to reach me email: devoncurtis8@gmail.com
 - 📚 Currently attending Widener University class of 2025
